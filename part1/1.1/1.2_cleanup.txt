@@ -1,0 +1,5 @@
+root@docker-test:~# sudo docker ps -a
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+
+root@docker-test:~# sudo docker images
+REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
