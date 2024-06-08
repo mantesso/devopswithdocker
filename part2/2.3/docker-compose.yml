@@ -1,0 +1,12 @@
+version: '2.0'
+
+services:
+  frontend:
+    image: example-frontend
+    ports:
+      - 5000:5000
+
+  backend:
+    image: example-backend
+    ports:
+      - 8080:8080
